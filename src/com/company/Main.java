@@ -54,6 +54,7 @@ public class Main {
         i= x-12;
         double d=Double.parseDouble("12.7");
         System.out.println(d);
+        //Math, Random
     }
     public static void list(File direcrtory, int depth) {
         File [] files=direcrtory.listFiles();
